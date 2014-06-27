@@ -9,6 +9,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'tzinfo-data', platforms: [:mingw, :mswin]
 gem 'bootstrap-sass'
+gem 'devise', '~> 3.1.0.rc2'
 
 group :development, :test do
 	gem 'sqlite3'
